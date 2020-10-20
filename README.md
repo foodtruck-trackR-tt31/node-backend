@@ -1,6 +1,6 @@
 ## Back end for track team 31's Foodtruck Trackr project.<br>
 Use the link: https://bw-foodtruck-tracker.herokuapp.com/ <br>
-With the following table includes all endpoints:
+With the following table that includes all endpoints:
 
 |   	|   	|   	|
 |---	|---	|---	|
